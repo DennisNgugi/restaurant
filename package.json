@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "chart.js": "^2.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pusher-js": "^4.4.0",
     "v-data-table": "^2.1.0",
     "v2-datepicker": "^3.1.1",
